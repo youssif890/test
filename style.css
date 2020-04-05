@@ -1,0 +1,114 @@
+#website_header{
+
+color: blue;
+font-size: 35px;
+font-weight: bold;
+
+
+
+}
+.website_header {
+
+	color: red;
+
+
+}
+#big_wrapper{
+
+	font-size: 27px;
+	border: solid;
+	padding: 15px;
+	background-image: url(images/Best-Fortnite-Wallpaper.jpg);
+	background-attachment: fixed;
+	
+
+
+	
+
+
+}
+#pubg{
+	font-size: 35px;
+	color: red;
+	text-align: center;
+	background-color: #66ff99;
+	padding: 25px;
+	background-image: url(images/Best-Fortnite-Wallpaper.jpg);
+background-attachment: fixed;
+
+
+
+}
+#gameplay{
+	font-size: 35px;
+	color: red;
+	text-align: center;
+	background-color: #66ff99;
+
+padding: 25px;
+background-image: url(images/Yakkety_Yak_Wallpaper.jpg);
+
+background-attachment: fixed;
+
+
+
+}
+#gameplay_pubg{
+
+
+	font-size: 27px;
+	border: solid;
+	padding: 15px;
+	background-image: url(images/Yakkety_Yak_Wallpaper.jpg);
+
+	background-attachment: fixed;
+	]
+}
+#image1{
+width: 700px;
+padding-left: 1145px;
+
+	
+}
+#if {
+
+border: solid;
+font-size: 27px;
+background-color: pink;
+
+
+}
+#red {
+color: red;
+
+}
+a{
+
+	text-decoration: none;
+	color: inherit;
+
+}
+
+a:hover {
+	text-decoration: underline;
+	color: red;
+}
+li{
+	padding-right: 20px;
+
+	display: inline-block;
+}
+ul {
+	padding-top: 20px;
+	float: right;
+}
+#sidebar{
+
+	color: black;
+	border: solid 2px black;
+	background-color: yellow;
+
+float: right;
+height: 1000px;
+
+}

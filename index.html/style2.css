@@ -1,0 +1,62 @@
+#officail {
+	color: black;
+	font-size: 30px;
+	background-color: rgb(113, 67, 238);
+	
+}
+#home {
+	float: right;
+
+}
+li{
+	padding: 20px;
+	display:inline-block ;
+}
+ul{
+	padding-top: 20px;
+
+}
+
+
+a{
+	text-decoration: none;
+	color: inherit;
+
+}
+a:hover {
+	text-decoration: underline
+	color red;}
+	
+	#lol {
+		padding-top: 80px;
+		background-color: lightcoral;
+		font-size: 27px;
+	}
+#bb{
+	float: left;
+}
+#topic{
+	font-size: 27px;
+	background-color:red ;
+	width: 800px;
+	
+}
+#im {
+	width: 800px;
+	display: inline;
+}
+#mm{
+	float: none;
+	display: inline;
+}
+* { 
+	background-image:url(images/Best-Fortnite-Wallpaper.jpg) ;
+}
+#ff{
+	width: 53%;
+
+}
+#ll {
+	font-size: 27px;
+	width: 53%;
+}
